@@ -20,7 +20,7 @@
             </v-row>  
           </div>
              
-          <div class="p-2   mt-12   ">
+          <div class="p-2   mt-2">
           <RouterView></RouterView>
           </div>
           
