@@ -1,9 +1,8 @@
 <template>
   <div class="mt-1   h-full">  
     <DashboardCard/> 
-  </div> 
+  </div>  
   <h1>Something</h1>
-
 </template>
  
 <script> 
