@@ -2,6 +2,7 @@
   <div class="mt-1   h-full">  
     <DashboardCard/> 
   </div> 
+  <h1>Something</h1>
 
 </template>
  
